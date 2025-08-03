@@ -8,9 +8,15 @@ This project explores the effectiveness of Multilayer Perceptrons (MLPs) for ima
 
 Spoiler: CNNs still win when it comes to vision tasks, but our custom-built MLPs held their own and delivered surprisingly competitive results.
 
-## Documentation
+## Collaborators  
 
-**LaTeX Documentation**: You can find the detailed documentation [here](MLDocumentation1.pdf)
+This project was developed by:
+
+- **Jack Parry-Wingfield** - [GitHub Profile](https://github.com/JackPW-lang)  
+- **Alina Shimizu** - [GitHub Profile](https://github.com/alinashimizu)  
+- **Lucas Andrade** - [GitHub Profile](https://github.com/lucasandrdd)  
+
+**LaTeX Documentation**: You can find the detailed documentation [here](MLDocumentation1.pdf) 
 
 ---
 
